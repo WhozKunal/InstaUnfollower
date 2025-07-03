@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "Instagram Auto Unfollower",
+    "version": "1.0",
+    "description": "Unfollow all followed accounts on Instagram automatically.",
+    "permissions": ["scripting", "tabs", "activeTab"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "instagram.png"
+      }
+    },
+    "host_permissions": [
+      "https://www.instagram.com/*"
+    ]
+
+  }
+  
