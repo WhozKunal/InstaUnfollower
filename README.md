@@ -29,4 +29,38 @@ Instagram loads following users dynamically. This extension:
 ### 1. Download or Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/InstaUnfollower.git
+git clone https://github.com/whozkunal/InstaUnfollower.git
+
+
+2. Load as Chrome Extension
+Open chrome://extensions/ in your Chrome browser
+
+Enable Developer mode (top right)
+
+Click “Load unpacked.”
+
+Select the InstaUnfollower folder you just downloaded
+
+✅ You’ll now see the extension icon in your browser!
+
+How to Use
+Go to your Instagram Profile
+
+Click on your Following count (to open the popup)
+
+Open the extension → Click “Start Unfollowing”
+
+Sit back! It’ll:
+
+Click "Following"
+
+Click "Unfollow"
+
+Scroll
+
+Repeat
+
+
+
+
+
